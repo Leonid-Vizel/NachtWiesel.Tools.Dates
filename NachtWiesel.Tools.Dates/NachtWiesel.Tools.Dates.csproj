@@ -13,7 +13,7 @@
     <RepositoryType>git</RepositoryType>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
-    <Description>Набор расширений для работы со строками и удобных преобразований из типов в строки</Description>
+    <Description>Набор расширений для работы с данными о датах и времени</Description>
     <PackageReleaseNotes>Перенос библиотеки</PackageReleaseNotes>
     <RepositoryType>git</RepositoryType>
     <PackageTags>Tools Bool Boolean DateOnly TimeSpan DayOfWeek Inflect String Inflect Spaces Crop</PackageTags>
